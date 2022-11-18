@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GVQzamM/jRSKaiUSrg9YGJSi7N5TccUqPd6xETKpnoj8evwEUOjkU8vLPoNOVcBQVUGxviZct8jW/TQgvr3YBg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DELL\\Desktop\\practica#poo\\ExamenPrimerParcial\\ExamenPrimerParcial.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}
